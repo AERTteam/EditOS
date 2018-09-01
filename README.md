@@ -3,7 +3,7 @@
 
 ### About
 EditOS by __A.E.R.T__ is an open source text editor project with well commented manual coding\
-built especiallly for educational purposes of begginer programmers.\
+built especially for educational purposes of beginner programmers.\
 It is coded in [Python 2.7](https://www.python.org/downloads/release/python-2715/)
 with [PyQt 4.11.4](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/) gui framework.\
 currently available as a [windows installer](https://drive.google.com/file/d/1RgGu7S15J5GinD6M6rcYqkBw13n5uToN/view?usp=sharing)
@@ -16,7 +16,7 @@ Although, you would need [visual C++ 2008](https://www.microsoft.com/en-in/downl
 and its installation starts by default when the product installation gets finished.
 
 ### License
-it is licensed under [Unlicense](http://unlicense.org/) with a focus on an anti-copyright message
+It is licensed under [Unlicense](http://unlicense.org/) with a focus on an anti-copyright message
 
 Appreciate our hard work?
-Like [A.E.R.T](https://www.facebook.com/aertsocial/) on facebook.
+Like [A.E.R.T](https://www.facebook.com/aertsocial/) on Facebook.
